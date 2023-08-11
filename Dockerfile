@@ -1,4 +1,4 @@
-FROM node:lts-buster
+⁷FROM node:lts-buster
 
 RUN apt-get update && \
   apt-get install -y \
@@ -16,4 +16,4 @@ COPY . .
 
 EXPOSE 5000
 
-CMD ["sh", "start.sh", "--server"]
+CMD ["sh", "start.sh"]
