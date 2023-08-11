@@ -1,0 +1,76 @@
+[
+  {
+    "name": "𖠵݅͜🇨🇵  ≈『𝐻𝑜𝑢𝑠𝑒 𝑂𝑓 𝐵𝑎𝑙𝑙𝑜𝑜𝑛𝑠』≈  🇨🇵݅͜𖠵",
+    "groupId": "120363029447577503@g.us",
+    "x9": false,
+    "antiimg": false,
+    "antivideo": false,
+    "antiaudio": false,
+    "antisticker": false,
+    "antidoc": true,
+    "antictt": true,
+    "antiloc": true,
+    "antilinkgp": false,
+    "antilinkhard": true,
+    "antifake": true,
+    "antiporn": true,
+    "Odelete": false,
+    "antispam": false,
+    "antinotas": false,
+    "anticatalogo": false,
+    "visuUnica": false,
+    "registrarFIGUS": false,
+    "soadm": false,
+    "listanegra": [],
+    "advertir": [],
+    "prefixos": [
+      "!"
+    ],
+    "advertir2": [],
+    "legenda_estrangeiro": "METE O PÉ GRINGO FDP",
+    "legenda_documento": "0",
+    "legenda_video": "0",
+    "legenda_imagem": "0",
+    "multiprefix": false,
+    "forca_ofc": [
+      {
+        "acertos": 0,
+        "erros": 0,
+        "palavra": [],
+        "escreveu": [],
+        "palavra_ofc": 0,
+        "dica": 0,
+        "tema": 0
+      }
+    ],
+    "ausentes": [],
+    "antipalavrao": {
+      "active": false,
+      "palavras": []
+    },
+    "limitec": {
+      "active": true,
+      "quantidade": 3000
+    },
+    "wellcome": [
+      {
+        "bemvindo1": false,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a)",
+        "legendasaiu": 0
+      },
+      {
+        "bemvindo2": true,
+        "legendabv": "𝙾𝙻𝙰 #numerodele# 𝙱𝙴𝙼 𝚅𝙸𝙽𝙳𝙾 𝙰𝙾 #nomedogp# 𝚂𝙸𝙶𝙰 𝙰𝚂 𝚁𝙴𝙶𝚁𝙰𝚂 𝙿𝙰𝚁𝙰 𝙴𝚅𝙸𝚃𝙰𝚁 𝚄𝙼 𝙱𝙰𝙽 𝙳𝙴𝚂𝙽𝙴𝙲𝙴𝚂𝚂𝙰́𝚁𝙸𝙾.\n\n𝙿𝚁𝙴𝙵𝙸𝚇𝙾 𝙳𝙾 𝙱𝙾𝚃: /\n\n   ⸻ 𝐑𝐄𝐆𝐑𝐀𝐒 𝐀𝐁𝐀𝐈𝐗𝐎, 𝐋𝐄𝐈𝐀!\n\nㅤ˛𝄄🌃⃞ ⃞̸𝃣 𝐑espeitem as regras para que não ocorra punições. Te desejo uma boa diversão no grupo e que você consiga fazer várias amizades!\n    ˛𝄄🌆̷ ⃞̸𝃣 𝐆rupo dedicado à memes, conversas e shitpost.\n    ˛𝄄🌃⃞ ⃞̸𝃣 𝐐ualquer dúvida referente ao grupo, reclamação sobre algum membro, contate o ADM.\n    ˛𝄄🌆̷ ⃞̸𝃣 𝐏ornografia/hentai ou flood, resulta em ban permanente. \n    ˛𝄄🌃⃞ ⃞̸𝃣 𝐃ivulgar grupos resulta em ban instantâneo, sem chance de retorno ao grupo.\n    ˛𝄄🌆⃞ ⃞̸𝃣 𝐁usquem manter o respeito pelo próximo, independente de sexualidade, cor, e outros.\n    ˛𝄄🌃⃞ ⃞̸𝃣 𝐍ão invada privado sem permissão, caso invada e alguém te denuncie ao administrador, saiba que será\n\nGRUPO DO BOT\n https://chat.whatsapp.com/ByMWgxcjDZl69AvKy19pBC",
+        "legendasaiu": "#numerodele# 𝙰𝙲𝙰𝙱𝙰 𝙳𝙴 𝚂𝙰𝙸𝚁 𝙳𝙾 #nomedogp#. 𝙹𝙰 𝚅𝙰𝙸 𝚃𝙰𝚁𝙳𝙴."
+      }
+    ],
+    "simi1": false,
+    "simi2": false,
+    "autosticker": false,
+    "autoresposta": false,
+    "jogos": true,
+    "level": true,
+    "bangp": false,
+    "nsfw": false
+  }
+]

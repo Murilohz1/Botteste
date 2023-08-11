@@ -1,0 +1,88 @@
+[
+  {
+    "name": "𝑪𝑯𝑨𝑻 𝑫𝑨 𝑨𝑺𝑼𝑵𝑨-𝑩𝑶𝑻",
+    "groupId": "120363161822441286@g.us",
+    "x9": true,
+    "antiimg": false,
+    "antivideo": false,
+    "antiaudio": false,
+    "antisticker": false,
+    "antidoc": true,
+    "antictt": true,
+    "antiloc": true,
+    "antilinkgp": false,
+    "antilinkhard": true,
+    "antifake": true,
+    "antiporn": true,
+    "Odelete": false,
+    "antispam": false,
+    "antinotas": false,
+    "anticatalogo": true,
+    "visuUnica": false,
+    "registrarFIGUS": false,
+    "soadm": false,
+    "listanegra": [
+      "557598097557@s.whatsapp.net"
+    ],
+    "advertir": [],
+    "prefixos": [
+      "!"
+    ],
+    "advertir2": [],
+    "legenda_estrangeiro": "METE O PÉ GRINGO FDP",
+    "legenda_documento": "0",
+    "legenda_video": "0",
+    "legenda_imagem": "0",
+    "multiprefix": false,
+    "forca_ofc": [
+      {
+        "acertos": 0,
+        "erros": 0,
+        "palavra": [
+          "_",
+          "_",
+          "_",
+          "_",
+          "_",
+          "_",
+          "_",
+          "_"
+        ],
+        "escreveu": [],
+        "palavra_ofc": "cachorro",
+        "dica": "tem quatro patas",
+        "tema": "animal"
+      }
+    ],
+    "ausentes": [],
+    "antipalavrao": {
+      "active": false,
+      "palavras": []
+    },
+    "limitec": {
+      "active": true,
+      "quantidade": 3000
+    },
+    "wellcome": [
+      {
+        "bemvindo1": false,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a)",
+        "legendasaiu": 0
+      },
+      {
+        "bemvindo2": true,
+        "legendabv": "𝙾𝙻𝙰 #numerodele# 𝙱𝙴𝙼 𝚅𝙸𝙽𝙳𝙾 𝙰𝙾 #nomedogp# 𝚂𝙸𝙶𝙰 𝙰𝚂 𝚁𝙴𝙶𝚁𝙰𝚂 𝙿𝙰𝚁𝙰 𝙴𝚅𝙸𝚃𝙰𝚁 𝚄𝙼 𝙱𝙰𝙽 𝙳𝙴𝚂𝙽𝙴𝙲𝙴𝚂𝚂𝙰́𝚁𝙸𝙾.\n\n𝙿𝚁𝙴𝙵𝙸𝚇𝙾 𝙳𝙾 𝙱𝙾𝚃: /\n\n#descrição#",
+        "legendasaiu": "#numerodele# 𝙰𝙲𝙰𝙱𝙰 𝙳𝙴 𝚂𝙰𝙸𝚁 𝙳𝙾 #nomedogp#. 𝙹𝙰 𝚅𝙰𝙸 𝚃𝙰𝚁𝙳𝙴."
+      }
+    ],
+    "simi1": false,
+    "simi2": false,
+    "autosticker": false,
+    "autoresposta": false,
+    "jogos": true,
+    "level": true,
+    "bangp": false,
+    "nsfw": false,
+    "forca_inc": false
+  }
+]
