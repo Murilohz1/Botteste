@@ -2,4 +2,4 @@ FROM node:lts-buster
 
 EXPOSE 5000
 
-CMD ["npm", "start", "--server"]
+CMD ["sh", "start.sh", "--server"]
