@@ -9,4 +9,4 @@ RUN apt-get update && \
   
 EXPOSE 5000
 
-CMD ["sh", "start.sh", "--server"]
+CMD ["sh", "start.sh"]
