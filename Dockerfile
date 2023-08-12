@@ -6,6 +6,8 @@ RUN apt-get update && \
   wget && \
   apt-get upgrade -y && \
   rm -rf /var/lib/apt/lists/*
+
+RUN npm install
   
 EXPOSE 5000
 
